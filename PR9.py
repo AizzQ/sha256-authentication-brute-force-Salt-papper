@@ -104,9 +104,9 @@ def hack_sha256(passwordHash):
 
 # def Longer_example():
 #     x = "e06554818e902b4ba339f066967c0000da3fcda4fd7eb4ef89c124fa78bda419"
-#     path = r"C:\Users\aizaz\Desktop\all_e_word.txt"
-#     path1 = r"C:\Users\aizaz\Desktop\common_pass.txt"
-#     path2 = r"C:\Users\aizaz\Desktop\list_of_all_movies.txt"
+#     path = r"C:\all_e_word.txt"
+#     path1 = r"C:\common_pass.txt"
+#     path2 = r"C:\list_of_all_movies.txt"
 #
 '''We know that we connot use brute force it takes very long run, So, creating a Ranbow Table to compare the
 hash 256 or similar , Now I downlaod first all english word and call the file in the function and compare the
